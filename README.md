@@ -1,6 +1,6 @@
 ## Step Monitoring System
 
-This project analyszes data collected from a personal monitoring device over the course of two months, October and November, 2012. The device collected data at 5-minute intervals throughout the day, recording the number of steps the person took in each 5-minute interval.
+This project analyzes data collected from a personal monitoring device over the course of two months, October and November, 2012. The device collected data at 5-minute intervals throughout the day, recording the number of steps the person took in each 5-minute interval.
 
 The dataset is available as a zip file at http://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip. After expanding this file, we end up with a csv file called "activity.csv". The variables in this dataset are:
 
